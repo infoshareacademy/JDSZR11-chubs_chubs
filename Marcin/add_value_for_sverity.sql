@@ -6,3 +6,11 @@ case
 	when severity = 'Very Strong' then 4
 end value_severity
 from el_nino_la_nina enln ;
+
+select *
+corr
+from el_nino_la_nina enln 
+join inpe_brazilian_amazon_fires ibaf 
+on "start year" = ibaf."year" ;
+
+select 
