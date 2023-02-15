@@ -6,3 +6,7 @@ with table_1 as (select
 				from inpe_brazilian_amazon_fires i 
 				where month in (1, 2, 3, 4, 5, 6, 12) 
 				order by year)
+				
+select 
+corr(sum_firespots_rainyseason, firespots) as correlation_dryseason_firespots
+from table_1;
