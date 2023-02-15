@@ -6,7 +6,7 @@ create table	def_area_one (
 
 							);
 						
-INSERT INTO def_area_one  select "Ano/Estados" ,'ac'as state ,ac from def_area da, 
+INSERT INTO def_area_one  select "Ano/Estados" ,'ac'as state ,ac from def_area da,
 INSERT INTO def_area_one  select "Ano/Estados" ,'am'as state ,am from def_area da, 
 INSERT INTO def_area_one  select "Ano/Estados" ,'ap'as state ,ap from def_area da, 
 INSERT INTO def_area_one  select "Ano/Estados" ,'ma'as state ,ma from def_area da, 
@@ -18,3 +18,6 @@ INSERT INTO def_area_one  select "Ano/Estados" ,'to' as state ,"TO" from def_are
 
 select concat_ws ('_',state,year) as id_year, *
 from def_area_one da ;
+select * 
+from def_area da ;
+
