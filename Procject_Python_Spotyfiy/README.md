@@ -1,4 +1,4 @@
-# SQL Project
+# Python Project
 
-- Brazilian Amazon Rainforest Degradation 1999-2019
-- <a href="https://www.kaggle.com/datasets/mbogernetto/brazilian-amazon-rainforest-degradation">Kaggle dataset</a>
+- Spotify HUGE database - daily charts over 3 years
+- <a href="https://www.kaggle.com/datasets/pepepython/spotify-huge-database-daily-charts-over-3-years?select=Final+database.csv">Kaggle dataset</a>
