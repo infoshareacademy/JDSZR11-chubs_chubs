@@ -1,0 +1,234 @@
+[33mcommit 067649d5a60df4eb47eadc4b3d471460f04f193e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mjupyter[m[33m)[m
+Author: Marcin Sidoruk <marcin.sidoruk87@gmail.com>
+Date:   Mon Feb 20 20:58:47 2023 +0100
+
+    Moddified notes for presentation
+
+[33mcommit 9ebd0e52bef48ebef5c95502273c7893d8486953[m
+Author: Marcin Sidoruk <marcin.sidoruk87@gmail.com>
+Date:   Sun Feb 19 08:09:05 2023 +0100
+
+    Adding notes to presentation
+
+[33mcommit acce179c80780e927f6863e1422c7494f02b648a[m
+Author: Andrzej <122561700+alososowski@users.noreply.github.com>
+Date:   Sat Feb 18 15:11:28 2023 +0100
+
+    Add files via upload
+
+[33mcommit 81718588ec543338dff444cb22582865bf3cd084[m
+Author: Andrzej <122561700+alososowski@users.noreply.github.com>
+Date:   Sat Feb 18 15:10:59 2023 +0100
+
+    Delete Historia_perspektywy.odt
+
+[33mcommit ebd3bcb19d3ac53b01af61faaff0e90d4adbd6f1[m
+Author: Dominika Gerszewska <122360473+Mikat123@users.noreply.github.com>
+Date:   Sat Feb 18 00:19:11 2023 +0100
+
+    Added presentation
+    
+    Presentation in pdf and pptx.
+
+[33mcommit e8ce9c1a9c76a01ad38b346437a65c13b93ca490[m
+Author: Andrzej <122561700+alososowski@users.noreply.github.com>
+Date:   Fri Feb 17 23:17:58 2023 +0100
+
+    Delete Historia_perspektywy.odt
+
+[33mcommit be5c1362b7aade415d66610d760946feaeb6b1ac[m
+Author: Andrzej <122561700+alososowski@users.noreply.github.com>
+Date:   Fri Feb 17 23:17:09 2023 +0100
+
+    Add files via upload
+
+[33mcommit 72119de9cb3fa6583db717981b171a084bcd7f00[m
+Author: Andrzej <122561700+alososowski@users.noreply.github.com>
+Date:   Fri Feb 17 23:07:29 2023 +0100
+
+    Add files via upload
+
+[33mcommit 6081b27c98db29a2c0e78854ba359e6e55b0f0bc[m
+Author: Joanna Zielińska <80065218+JoannaZielinska-96@users.noreply.github.com>
+Date:   Fri Feb 17 20:51:28 2023 +0100
+
+    Delete Vizzes Tableau.pdf
+
+[33mcommit 28d13b27f8598ec72287a40882c9398756e30093[m
+Merge: 3ce4075 2c26e14
+Author: Joanna Zielińska <joanna.zielinska.1996.jz@gmail.com>
+Date:   Fri Feb 17 20:50:24 2023 +0100
+
+    Merge branch 'main' of https://github.com/infoshareacademy/JDSZR11-chubs_chubs
+
+[33mcommit 3ce40755cb18c0b3742ad56165a37c617077a822[m
+Author: Joanna Zielińska <joanna.zielinska.1996.jz@gmail.com>
+Date:   Fri Feb 17 20:50:03 2023 +0100
+
+    Changed file Vizzes_Tableau.pdf
+
+[33mcommit 2c26e145834972892e56e31deab16c71e8f0fc0a[m
+Author: Joanna Zielińska <80065218+JoannaZielinska-96@users.noreply.github.com>
+Date:   Thu Feb 16 21:21:19 2023 +0100
+
+    Delete Cumulative_distribution_for_the_rainy_season.sql
+
+[33mcommit 66bcf52766f40252e489c32e5a95380273ecb1c0[m
+Author: Joanna Zielińska <80065218+JoannaZielinska-96@users.noreply.github.com>
+Date:   Thu Feb 16 21:21:11 2023 +0100
+
+    Delete Cumulative_distribution_for_the_dry_season.sql
+
+[33mcommit 57b7bc6152613b91af9c597d5e53c4b492f77181[m
+Author: Joanna Zielińska <joanna.zielinska.1996.jz@gmail.com>
+Date:   Wed Feb 15 22:57:06 2023 +0100
+
+    Added file Vizzes Tableau
+
+[33mcommit f53da4205f419a46f0811f49d0d5d8849630dd29[m
+Merge: 083c738 6e9be9b
+Author: Joanna Zielińska <joanna.zielinska.1996.jz@gmail.com>
+Date:   Wed Feb 15 22:06:21 2023 +0100
+
+    Merge branch 'main' of https://github.com/infoshareacademy/JDSZR11-chubs_chubs
+
+[33mcommit 083c738b04e398d0576d065901ae9a3f22000a1f[m
+Author: Joanna Zielińska <joanna.zielinska.1996.jz@gmail.com>
+Date:   Wed Feb 15 22:06:05 2023 +0100
+
+    Added new file with correlation
+
+[33mcommit 6e9be9bea350311ebbc25e7c2446fc16f80682a1[m
+Author: Joanna Zielińska <80065218+JoannaZielinska-96@users.noreply.github.com>
+Date:   Wed Feb 15 22:02:50 2023 +0100
+
+    Update Correlation_rainyseason_firespots.sql
+
+[33mcommit e3f096506d65eac56db7c83ca0b662f13c29a622[m
+Author: Joanna Zielińska <80065218+JoannaZielinska-96@users.noreply.github.com>
+Date:   Wed Feb 15 21:57:08 2023 +0100
+
+    Delete Correlation _between_La_Nina_and_sum_of_firespots_during_dryseason .sql
+
+[33mcommit 36ed2a5b29f79e65ddd8aaa10e28c406572bc172[m
+Author: Joanna Zielińska <80065218+JoannaZielinska-96@users.noreply.github.com>
+Date:   Wed Feb 15 21:56:56 2023 +0100
+
+    Delete Correlation _between_El_Nino_and_sum_of_firespots_during_rainyseason .sql
+
+[33mcommit ceddb683123a3b7d0abe4d047a54dcfaacb2bc32[m
+Merge: 7ab0f81 1c68d43
+Author: Joanna Zielińska <joanna.zielinska.1996.jz@gmail.com>
+Date:   Wed Feb 15 21:34:24 2023 +0100
+
+    Merge branch 'main' of https://github.com/infoshareacademy/JDSZR11-chubs_chubs
+
+[33mcommit 7ab0f8105ce4a2a90b28534e770958d76ccb4e4d[m
+Author: Joanna Zielińska <joanna.zielinska.1996.jz@gmail.com>
+Date:   Wed Feb 15 21:33:43 2023 +0100
+
+    Added new files with correlation
+
+[33mcommit 1c68d438de85941c5a406c7cd4eaa6c6b47ceb0a[m
+Author: Marcin Sidoruk <marcin.sidoruk87@gmail.com>
+Date:   Wed Feb 15 21:08:55 2023 +0100
+
+    Adding two files Linki and notatk  for presetation
+    other chagnes are some cosmetics in code
+
+[33mcommit 65c1e8ec4e153f49b45856fd92ef0438e7f194bf[m
+Author: Marcin Sidoruk <marcin.sidoruk87@gmail.com>
+Date:   Sun Feb 5 14:01:29 2023 +0100
+
+     All hopfuly rigth tables with ID's also konspkt of presentation and csv files
+
+[33mcommit 5ab106c32e3c9e8d45d3c499fd96216acbd8e7b7[m
+Merge: 8a1247e 0f3560f
+Author: Joanna Zielińska <joanna.zielinska.1996.jz@gmail.com>
+Date:   Sun Feb 5 12:21:48 2023 +0100
+
+    Merge branch 'main' of https://github.com/infoshareacademy/JDSZR11-chubs_chubs
+
+[33mcommit 8a1247e289585cfb06acabdc4c7275c5e348624f[m
+Author: Joanna Zielińska <joanna.zielinska.1996.jz@gmail.com>
+Date:   Sun Feb 5 12:21:29 2023 +0100
+
+    Added new files with correlation related to El Nino/La Nina
+
+[33mcommit 0f3560f48649ceac00171e830713b92672afc975[m
+Author: Dominika Gerszewska <122360473+Mikat123@users.noreply.github.com>
+Date:   Sun Feb 5 11:12:32 2023 +0100
+
+    Added grouping by year and by state
+    
+    In grouping by year added YoY value
+
+[33mcommit 60002fe5805c18388d774c34501bcccf20566e22[m
+Merge: 2e3c95f dcfaab1
+Author: Marcin Sidoruk <marcin.sidoruk87@gmail.com>
+Date:   Sun Feb 5 10:52:47 2023 +0100
+
+    Merge branch 'main' of https://github.com/infoshareacademy/JDSZR11-chubs_chubs
+
+[33mcommit 2e3c95fefb0a262f22dc697660b870617f31cb97[m
+Author: Marcin Sidoruk <marcin.sidoruk87@gmail.com>
+Date:   Sun Feb 5 10:51:50 2023 +0100
+
+    Addig tables with id and queris to do it. Id add for porpuses of using tables in Tableau
+
+[33mcommit dcfaab186d09c146c92d71dd5999ed0d26817efb[m
+Merge: b4a5485 dbbcaca
+Author: Joanna Zielińska <joanna.zielinska.1996.jz@gmail.com>
+Date:   Sun Feb 5 10:18:59 2023 +0100
+
+    Merge branch 'main' of https://github.com/infoshareacademy/JDSZR11-chubs_chubs
+
+[33mcommit b4a5485802b860ba0bc8cbda6112eb692642bca7[m
+Author: Joanna Zielińska <joanna.zielinska.1996.jz@gmail.com>
+Date:   Sun Feb 5 10:17:15 2023 +0100
+
+    Added files with correlation
+
+[33mcommit dbbcaca96aeadb1216e37d1e48ff66ae91ae487b[m
+Author: Dominika Gerszewska <122360473+Mikat123@users.noreply.github.com>
+Date:   Sun Feb 5 09:15:10 2023 +0100
+
+    Add files via upload
+    
+    2019 - population and area size info
+
+[33mcommit a23737c3e98b8b80529c7281fe202566756153f8[m
+Author: Joanna Zielińska <joanna.zielinska.1996.jz@gmail.com>
+Date:   Sat Feb 4 22:47:23 2023 +0100
+
+    Added files with analysis of firespots for dry season and rainy season
+
+[33mcommit 6c77645f656737c79e5a65702971b625775fe2ed[m
+Author: Joanna Zielińska <80065218+JoannaZielinska-96@users.noreply.github.com>
+Date:   Sat Feb 4 16:08:34 2023 +0100
+
+    Update README.md
+
+[33mcommit bd50cdb137aa9c4426415607f2b7905d1231b4cd[m
+Author: Marcin Sidoruk <marcin.sidoruk87@gmail.com>
+Date:   Fri Feb 3 16:56:48 2023 +0100
+
+    Adding corelation to latiutude and longitude,grouping by date month in year. Created extra short version for lattiutude and longitude
+
+[33mcommit 643b29c3c72a142ede9861f6c752b4083edd8752[m
+Author: Dominika Gerszewska <mikat123@wp.pl>
+Date:   Tue Jan 31 22:17:44 2023 +0100
+
+    Added subfolders for every teammate
+
+[33mcommit f84d9f93a48bc57e6be16762c72da19cbe336738[m
+Author: Dominika Gerszewska <mikat123@wp.pl>
+Date:   Tue Jan 31 22:17:00 2023 +0100
+
+    Added info.txt
+
+[33mcommit b37cb157c8bb736d3010f9fc899fc7df9869167f[m
+Author: Sergiusz <60865503+sergiusz28@users.noreply.github.com>
+Date:   Thu Jan 26 09:00:55 2023 +0100
+
+    Initial commit
