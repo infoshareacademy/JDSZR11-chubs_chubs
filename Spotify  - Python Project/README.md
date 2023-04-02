@@ -1,5 +1,5 @@
-# SQL Project
+# Python Project
 
-- Brazilian Amazon Rainforest Degradation 1999-2019
-- <a href="https://www.kaggle.com/datasets/mbogernetto/brazilian-amazon-rainforest-degradation">Kaggle dataset</a>
-- <a href="https://github.com/infoshareacademy/JDSZR11-chubs_chubs/blob/main/Brazilian%20Deforestation/Dominika/Brazilian%20Amazon%20Rainforest%20Degradation%201999-2019.pdf">Final presentation</a>
+- Analysis of genre popularity based on the Kaggle platform's database 'Spotify HUGE database - daily charts over 3 years (2017-2020)
+- <a href="https://www.kaggle.com/datasets/pepepython/spotify-huge-database-daily-charts-over-3-years?select=Final+database.csv">Kaggle dataset</a>
+- <a href="https://github.com/infoshareacademy/JDSZR11-chubs_chubs/blob/main/Spotify%20%20-%20Python%20Project/Analysis_of_genre_popularity-final_presentation.ipynb">Final presentation</a>
