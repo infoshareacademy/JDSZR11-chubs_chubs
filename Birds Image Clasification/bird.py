@@ -4,6 +4,7 @@ from tensorflow.keras.utils import load_img
 from tensorflow.keras.utils import img_to_array
 from keras.applications.efficientnet import preprocess_input
 from keras.models import load_model
+import os
 
 app = Flask(__name__)
 model = load_model('saved_model/bird_test_case_5_d02.h5')
@@ -25,7 +26,7 @@ def predict():
     image = image.reshape((1,image.shape[0],image.shape[1],image.shape[2]))
     image = preprocess_input(image)
     yhat = model.predict(image)
-
+    os.remove(image_path)
 
     position = np.argmax(yhat) 
     label = class_names[position].title()

@@ -1,27 +1,94 @@
 <!DOCTYPE html>
-
 <html>
-    
-    <p style="background-image: url('https://secretcompass.com/wp-content/uploads/2018/01/Jungle-Rot.jpg')";>
-    <head>
-        
-        <title>Practice</title>
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">>
-    </head>
-        
-    <img src="https://www.pauwelsolivier.com/images/iucn-red-list-logo-red.jpg" style="width:400px;height:300px;">
-        <h1 class="text-center">Bird Classfier</h1>
+  <head>
+    <title>Bird Classifier</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        background-image: url("https://secretcompass.com/wp-content/uploads/2018/01/Jungle-Rot.jpg");
+        background-size: cover;
+      }
 
-        <form class="p-3 text-center" action="/", method='post' enctype="multipart/form-data">
-            
-            <input class="form-control" type="file" name="imagefile" >
-            <input class="btn tn-primary mt-3" type="submit" value="Is it endanger" >
-        </form>
+      .container {
+        margin-top: 100px;
+      }
 
-        {% if prediction %}
-            <p class="text-center"> Image is bird {{prediction}}</p>
-        {% endif %}
-        
-    </body>
-    <p style="background-image: url('https://secretcompass.com/wp-content/uploads/2018/01/Jungle-Rot.jpg')";>
+      img {
+        width: 400px;
+        height: 300px;
+        display: block;
+        margin: 0 auto;
+      }
+
+      h1 {
+        text-align: center;
+        color: #fff;
+      }
+
+      form {
+        margin-top: 50px;
+        text-align: center;
+      }
+
+      .form-control {
+        width: 300px;
+        margin: 0 auto;
+      }
+
+      .btn-primary {
+        margin-top: 20px;
+      }
+
+      .prediction {
+        text-align: center;
+        margin-top: 30px;
+        font-size: 18px;
+        border: 4px solid;
+        padding: 10px;
+        border-radius: 5px;
+        background-color: #fff;
+        height:125px;
+        width: 250px;
+        position: relative;
+        left: 525px;
+      }
+
+      .prediction.green {
+        color: #008000;
+        border-color: #008000;
+      }
+
+      .prediction.red {
+        color: #ff0000;
+        border-color: #ff0000;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <img
+        src="https://www.pauwelsolivier.com/images/iucn-red-list-logo-red.jpg"
+        alt="Logo"
+        class="img-fluid"
+      />
+      <h1>Bird Classifier</h1>
+
+      <form action="/" method="post" enctype="multipart/form-data">
+        <input class="form-control" type="file" name="imagefile" />
+        <input class="btn btn-primary" type="submit" value="Classify" />
+      </form>
+
+      {% if prediction %}
+      <div
+        class="prediction {% if 'Not in Threat' in prediction %}green{% else %}red{% endif %}"
+      >
+        <p><strong>Classification Result:</strong></p>
+        <p>{{ prediction }}</p>
+      </div>
+      {% endif %}
+    </div>
+  </body>
 </html>
